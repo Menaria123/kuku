@@ -1,2 +1,0 @@
-# kuku
-Codes by kuku
